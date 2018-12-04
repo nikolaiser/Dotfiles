@@ -1,0 +1,18 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+tab_width = 4
+
+[*.hs]
+indent_style = space
+indent_size = 8
+tab_width = 8
+
+[*.vim]
+indent_style = space
+indent_size = 2
+end_of_line = 1f
+insert_final_newline = true
+charset = utf_8
